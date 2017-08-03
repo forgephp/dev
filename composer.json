@@ -3,7 +3,7 @@
     "description": "Development Tools for The ForgePHP Framework.",
     "keywords": ["framework", "forgephp", "forge", "dev"],
     "license": "MIT",
-    "homepage": "forgephp.github.io",
+    "homepage": "https://forgephp.github.io",
     "authors": [
         {
             "name": "Zach Jenkins",
