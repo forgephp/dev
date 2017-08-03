@@ -11,7 +11,7 @@
         }
     ],
     "require": {
-        "forge/core": "~1.1",
+        "forge/core": "^1.1",
         "php-console/php-console": "^3.1"
     },
     "autoload": {
